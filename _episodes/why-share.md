@@ -1,7 +1,7 @@
 ---
 title: Why share?
-teaching: 2
-exercises: 30
+teaching: 0
+exercises: 31
 duration: 0
 summary: In this lesson we consider some of the reasons why people share code
   and software, and think about which of those reasons might apply to us.
