@@ -7,7 +7,8 @@ instructors:
 instructor_emails:
   - sara.villa@kcl.ac.uk
 helpers: []
-start_times: []
+start_times:
+  - 09|00
 setup_files:
   - git
   - r
