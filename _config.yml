@@ -4,15 +4,17 @@ topic: open-code
 title: Version Control Workshop
 instructors:
   - Sara Villa
-instructor_emails: []
+instructor_emails:
+  - sara.villa@kcl.ac.uk
 helpers: []
-start_times:
-  - 09|00
-setup_files: []
+start_times: []
+setup_files:
+  - git
+  - r
 language: en
 venue: null
-address: null
-country: null
+address: ""
+country: GB
 latitude: null
 longitude: null
 start_date: null
