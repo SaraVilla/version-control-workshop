@@ -1,26 +1,23 @@
 ---
-title: "Why share?" # title of the episode
-teaching: 0 # time required to teach (minutes)
-exercises: 30 # time required for participants to do the activities (minutes)
-duration: 0 # duration not included in teaching/exercises time (minutes)
-# summary of the episode content for displaying on the schedule page
-summary: >-
-  In this lesson we consider some of the reasons why people share
-  code and software, and think about which of those reasons might
-  apply to us.
-questions:
-objectives:
+title: Why share?
+teaching: 2
+exercises: 30
+duration: 0
+summary: In this lesson we consider some of the reasons why people share code
+  and software, and think about which of those reasons might apply to us.
+questions: null
+objectives: null
 keypoints:
   - People share code and software for many reasons
   - Shared software can be extended
   - Shared software can be evaluated
   - Bugs can be found and fixed
 is-break: false
-ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
+ukrn_wb_rules: null
 day: 1
 order: 10000
----
 
+---
 > ## Enumerating the benefits `5 min`
 > In small groups, try to think of reasons people share code and software.
 > Using the <a href="{{ site.collaborative_notes }}" target="_blank">collaborative notes document</a>,
